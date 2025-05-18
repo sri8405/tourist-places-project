@@ -118,7 +118,7 @@ with st.sidebar:
     st.markdown("---")
     page = st.radio(
         "Go to",
-        ["Home", "Place Recommender", "Itinerary Planner", "Analytics", "City Comparison"],
+        ["Home", "Place Recommender", "Itinerary Planner", "Analytics", "City Comparison", "About"],
         label_visibility="collapsed"
     )
 
@@ -529,6 +529,65 @@ elif page == "City Comparison":
                     ),
                     unsafe_allow_html=True
                 )
+
+# About Page
+elif page == "About":
+    st.title("About Tourist Place Recommender")
+    
+    # Mission Section
+    st.markdown("### Our Mission")
+    st.markdown("To help travelers discover and explore the rich cultural heritage and beautiful destinations across India, making trip planning easier and more enjoyable.")
+    
+    # Developers Section
+    st.markdown("### Meet the Developers")
+    col1, col2 = st.columns(2)
+    
+    with col1:
+        st.markdown("""
+            <div class="developer-card">
+                <h3>Sriram</h3>
+                <p>Full Stack Developer</p>
+                <p>Specialized in Python, Data Science, and Web Development</p>
+            </div>
+        """, unsafe_allow_html=True)
+    
+    with col2:
+        st.markdown("""
+            <div class="developer-card">
+                <h3>Sahil Yadav</h3>
+                <p>Data Scientist</p>
+                <p>Expert in Machine Learning and Data Analytics</p>
+            </div>
+        """, unsafe_allow_html=True)
+    
+    # Features Section
+    st.markdown("### Features")
+    features = [
+        "Smart place recommendations based on user preferences",
+        "Interactive itinerary planning",
+        "Real-time analytics and statistics",
+        "Weather information and best time to visit",
+        "City-wise comparison tools"
+    ]
+    for feature in features:
+        st.markdown(f"- {feature}")
+    
+    # Technologies Section
+    st.markdown("### Technologies Used")
+    tech_stack = ["Python", "Streamlit", "Pandas", "NumPy", "Plotly", "Scikit-learn", "Matplotlib"]
+    tech_cols = st.columns(4)
+    for idx, tech in enumerate(tech_stack):
+        with tech_cols[idx % 4]:
+            st.markdown(f"""
+                <div class="tech-item">
+                    {tech}
+                </div>
+            """, unsafe_allow_html=True)
+    
+    # Contact Section
+    st.markdown("### Contact")
+    st.markdown("For any queries or suggestions, please reach out to us at:")
+    st.markdown("Email: contact@touristrecommender.com")
 
 if __name__ == "__main__":
     pass 

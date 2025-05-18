@@ -1,85 +1,109 @@
-city,place_name,category,monthly_visitors,latitude,longitude,type,best_time_to_visit,historical_rainfall,temperature_trend
-Mumbai,Marine Drive,Scenic,150000,18.9750,72.8258,Waterfront,Oct-Mar,2500,25-35
-Mumbai,Elephanta Caves,Historical,80000,18.9633,72.9315,Monument,Oct-Mar,2500,25-35
-Mumbai,Colaba Causeway,Shopping,200000,18.9147,72.8317,Market,Oct-Mar,2500,25-35
-Mumbai,Sanjay Gandhi National Park,Nature,120000,19.2147,72.9106,National Park,Oct-Mar,2500,25-35
-Mumbai,Chhatrapati Shivaji Terminus,Historical,180000,18.9398,72.8354,Monument,Oct-Mar,2500,25-35
-Mumbai,Juhu Beach,Scenic,250000,19.0997,72.8347,Beach,Oct-Mar,2500,25-35
-Mumbai,Haji Ali Dargah,Religious,150000,18.9829,72.8114,Temple,Oct-Mar,2500,25-35
-Mumbai,National Museum,Historical,60000,18.9276,72.8319,Museum,Oct-Mar,2500,25-35
-Mumbai,Essel World,Entertainment,100000,19.2147,72.8106,Theme Park,Oct-Mar,2500,25-35
-Mumbai,Nehru Planetarium,Educational,40000,19.0147,72.8319,Science Center,Oct-Mar,2500,25-35
-Mumbai,Global Vipassana Pagoda,Religious,70000,19.2147,72.8106,Temple,Oct-Mar,2500,25-35
-Mumbai,Dr. Bhau Daji Lad Museum,Historical,30000,19.0147,72.8319,Museum,Oct-Mar,2500,25-35
-Delhi,Red Fort,Historical,200000,28.6562,77.2410,Monument,Oct-Mar,800,15-40
-Delhi,Qutub Minar,Historical,180000,28.5245,77.1855,Monument,Oct-Mar,800,15-40
-Delhi,India Gate,Historical,250000,28.6129,77.2295,Monument,Oct-Mar,800,15-40
-Delhi,Lotus Temple,Religious,150000,28.5535,77.2588,Temple,Oct-Mar,800,15-40
-Delhi,Humayun's Tomb,Historical,120000,28.5931,77.2507,Monument,Oct-Mar,800,15-40
-Delhi,Chandni Chowk,Shopping,300000,28.6562,77.2310,Market,Oct-Mar,800,15-40
-Delhi,Akshardham Temple,Religious,200000,28.6127,77.2773,Temple,Oct-Mar,800,15-40
-Delhi,National Museum,Historical,80000,28.6116,77.2198,Museum,Oct-Mar,800,15-40
-Delhi,Jama Masjid,Religious,150000,28.6507,77.2334,Mosque,Oct-Mar,800,15-40
-Delhi,Rashtrapati Bhavan,Historical,50000,28.6143,77.1996,Government Building,Oct-Mar,800,15-40
-Delhi,Garden of Five Senses,Nature,70000,28.5245,77.1855,Garden,Oct-Mar,800,15-40
-Delhi,National Zoological Park,Nature,100000,28.6048,77.2435,Zoo,Oct-Mar,800,15-40
-Kolkata,Victoria Memorial,Historical,150000,22.5448,88.3426,Monument,Oct-Mar,1800,20-35
-Kolkata,Howrah Bridge,Historical,200000,22.5958,88.3376,Monument,Oct-Mar,1800,20-35
-Kolkata,Dakshineswar Kali Temple,Religious,180000,22.6548,88.3576,Temple,Oct-Mar,1800,20-35
-Kolkata,Indian Museum,Historical,80000,22.5587,88.3509,Museum,Oct-Mar,1800,20-35
-Kolkata,Science City,Educational,120000,22.5333,88.3333,Science Center,Oct-Mar,1800,20-35
-Kolkata,New Market,Shopping,250000,22.5587,88.3509,Market,Oct-Mar,1800,20-35
-Kolkata,Marble Palace,Historical,50000,22.5587,88.3509,Palace,Oct-Mar,1800,20-35
-Kolkata,Birla Planetarium,Educational,60000,22.5587,88.3509,Science Center,Oct-Mar,1800,20-35
-Kolkata,St. Paul's Cathedral,Religious,40000,22.5587,88.3509,Church,Oct-Mar,1800,20-35
-Kolkata,Prinsep Ghat,Scenic,90000,22.5587,88.3509,Waterfront,Oct-Mar,1800,20-35
-Kolkata,Alipore Zoo,Nature,150000,22.5333,88.3333,Zoo,Oct-Mar,1800,20-35
-Kolkata,Belur Math,Religious,100000,22.6333,88.3500,Temple,Oct-Mar,1800,20-35
-Jaipur,Amer Fort,Historical,180000,26.9855,75.8513,Fort,Oct-Mar,650,20-45
-Jaipur,Hawa Mahal,Historical,150000,26.9239,75.8267,Palace,Oct-Mar,650,20-45
-Jaipur,City Palace,Historical,120000,26.9258,75.8237,Palace,Oct-Mar,650,20-45
-Jaipur,Jantar Mantar,Historical,80000,26.9247,75.8246,Observatory,Oct-Mar,650,20-45
-Jaipur,Nahargarh Fort,Historical,70000,26.9362,75.8183,Fort,Oct-Mar,650,20-45
-Jaipur,Albert Hall Museum,Historical,50000,26.9124,75.7873,Museum,Oct-Mar,650,20-45
-Jaipur,Jal Mahal,Historical,90000,26.9535,75.8467,Palace,Oct-Mar,650,20-45
-Jaipur,Birla Mandir,Religious,60000,26.9124,75.7873,Temple,Oct-Mar,650,20-45
-Jaipur,Jaigarh Fort,Historical,55000,26.9855,75.8513,Fort,Oct-Mar,650,20-45
-Jaipur,Galtaji Temple,Religious,45000,26.9124,75.7873,Temple,Oct-Mar,650,20-45
-Jaipur,Sisodia Rani Garden,Nature,40000,26.9124,75.7873,Garden,Oct-Mar,650,20-45
-Jaipur,Central Park,Recreation,35000,26.9124,75.7873,Park,Oct-Mar,650,20-45
-Varanasi,Kashi Vishwanath Temple,Religious,300000,25.3176,82.9739,Temple,Oct-Mar,1100,15-45
-Varanasi,Dashashwamedh Ghat,Religious,250000,25.3176,82.9739,Ghat,Oct-Mar,1100,15-45
-Varanasi,Sarnath,Historical,150000,25.3176,82.9739,Archaeological Site,Oct-Mar,1100,15-45
-Varanasi,Manikarnika Ghat,Religious,200000,25.3176,82.9739,Ghat,Oct-Mar,1100,15-45
-Varanasi,Assi Ghat,Religious,180000,25.3176,82.9739,Ghat,Oct-Mar,1100,15-45
-Varanasi,Banaras Hindu University,Educational,100000,25.3176,82.9739,University,Oct-Mar,1100,15-45
-Varanasi,Ramnagar Fort,Historical,80000,25.3176,82.9739,Fort,Oct-Mar,1100,15-45
-Varanasi,Tulsi Manas Temple,Religious,70000,25.3176,82.9739,Temple,Oct-Mar,1100,15-45
-Varanasi,Durga Temple,Religious,90000,25.3176,82.9739,Temple,Oct-Mar,1100,15-45
-Varanasi,Bharat Kala Bhavan,Museum,50000,25.3176,82.9739,Museum,Oct-Mar,1100,15-45
-Varanasi,New Vishwanath Temple,Religious,120000,25.3176,82.9739,Temple,Oct-Mar,1100,15-45
-Varanasi,Alamgir Mosque,Religious,60000,25.3176,82.9739,Mosque,Oct-Mar,1100,15-45
-Goa,Calangute Beach,Scenic,300000,15.4989,73.7038,Beach,Oct-May,3000,25-35
-Goa,Baga Beach,Scenic,250000,15.5535,73.7513,Beach,Oct-May,3000,25-35
-Goa,Basilica of Bom Jesus,Religious,150000,15.4989,73.7038,Church,Oct-May,3000,25-35
-Goa,Fort Aguada,Historical,120000,15.4989,73.7038,Fort,Oct-May,3000,25-35
-Goa,Dudhsagar Falls,Nature,100000,15.4989,73.7038,Waterfall,Oct-May,3000,25-35
-Goa,Anjuna Beach,Scenic,200000,15.4989,73.7038,Beach,Oct-May,3000,25-35
-Goa,Chapora Fort,Historical,80000,15.4989,73.7038,Fort,Oct-May,3000,25-35
-Goa,Se Cathedral,Religious,90000,15.4989,73.7038,Church,Oct-May,3000,25-35
-Goa,Spice Plantations,Nature,70000,15.4989,73.7038,Garden,Oct-May,3000,25-35
-Goa,Old Goa Churches,Religious,110000,15.4989,73.7038,Church,Oct-May,3000,25-35
-Goa,Butterfly Beach,Scenic,60000,15.4989,73.7038,Beach,Oct-May,3000,25-35
-Goa,Grand Island,Scenic,50000,15.4989,73.7038,Island,Oct-May,3000,25-35
-Kerala,Backwaters,Scenic,250000,10.5276,76.2144,Waterway,Oct-Mar,3000,23-35
-Kerala,Kovalam Beach,Scenic,200000,8.4004,76.9787,Beach,Oct-Mar,3000,23-35
-Kerala,Periyar National Park,Nature,150000,9.4677,77.2056,National Park,Oct-Mar,3000,23-35
-Kerala,Munnar Hill Station,Nature,180000,10.0889,77.0595,Hill Station,Oct-Mar,3000,23-35
-Kerala,Padmanabhaswamy Temple,Religious,120000,8.4827,76.9437,Temple,Oct-Mar,3000,23-35
-Kerala,Fort Kochi,Historical,100000,9.9312,76.2673,Fort,Oct-Mar,3000,23-35
-Kerala,Athirappilly Falls,Nature,90000,10.2842,76.5783,Waterfall,Oct-Mar,3000,23-35
-Kerala,Varkala Beach,Scenic,80000,8.7376,76.7073,Beach,Oct-Mar,3000,23-35
-Kerala,Chinese Fishing Nets,Historical,70000,9.9312,76.2673,Landmark,Oct-Mar,3000,23-35
-Kerala,Tea Gardens,Nature,60000,10.0889,77.0595,Garden,Oct-Mar,3000,23-35
-Kerala,Marari Beach,Scenic,50000,9.6312,76.3073,Beach,Oct-Mar,3000,23-35
-Kerala,Bekal Fort,Historical,40000,12.3896,75.0313,Fort,Oct-Mar,3000,23-35 
+place_name,city,category,monthly_visitors,latitude,longitude,type,best_time_to_visit,historical_rainfall,temperature_trend
+Red Fort,Delhi,Historical,120000,28.6562,77.2410,Fort,Oct-Mar,800,20-45
+Qutub Minar,Delhi,Historical,90000,28.5245,77.1855,Monument,Oct-Mar,800,20-45
+Humayun's Tomb,Delhi,Historical,75000,28.5931,77.2503,Tomb,Oct-Mar,800,20-45
+Akshardham Temple,Delhi,Religious,60000,28.6127,77.2773,Temple,Oct-Mar,800,20-45
+Jama Masjid,Delhi,Religious,45000,28.6507,77.2334,Mosque,Oct-Mar,800,20-45
+Lodhi Garden,Delhi,Garden,30000,28.5892,77.2278,Garden,Oct-Mar,800,20-45
+National Museum,Delhi,Museum,25000,28.6119,77.2197,Museum,Oct-Mar,800,20-45
+Safdarjung's Tomb,Delhi,Historical,20000,28.5892,77.2105,Tomb,Oct-Mar,800,20-45
+Gateway of India,Mumbai,Historical,200000,18.9217,72.8347,Monument,Oct-Mar,2200,25-35
+Marine Drive,Mumbai,Scenic,150000,18.9750,72.8258,Beach,Oct-Mar,2200,25-35
+Elephanta Caves,Mumbai,Historical,50000,18.9633,72.9315,Caves,Oct-Mar,2200,25-35
+Juhu Beach,Mumbai,Scenic,100000,19.0992,72.8295,Beach,Oct-Mar,2200,25-35
+Colaba Causeway,Mumbai,Shopping,75000,18.9217,72.8347,Market,Oct-Mar,2200,25-35
+Haji Ali Dargah,Mumbai,Religious,45000,18.9829,72.8114,Shrine,Oct-Mar,2200,25-35
+Sanjay Gandhi National Park,Mumbai,Natural,30000,19.2147,72.9106,National Park,Oct-Mar,2200,25-35
+Bandra-Worli Sea Link,Mumbai,Modern,25000,19.0344,72.8212,Bridge,Oct-Mar,2200,25-35
+Chhatrapati Shivaji Terminus,Mumbai,Historical,20000,18.9398,72.8354,Heritage Site,Oct-Mar,2200,25-35
+Global Vipassana Pagoda,Mumbai,Religious,15000,19.2147,72.9106,Temple,Oct-Mar,2200,25-35
+Victoria Memorial,Kolkata,Historical,100000,22.5448,88.3426,Monument,Oct-Mar,1600,20-35
+Howrah Bridge,Kolkata,Modern,150000,22.5958,88.3470,Bridge,Oct-Mar,1600,20-35
+Dakshineswar Kali Temple,Kolkata,Religious,75000,22.6550,88.3575,Temple,Oct-Mar,1600,20-35
+Indian Museum,Kolkata,Museum,50000,22.5587,88.3509,Museum,Oct-Mar,1600,20-35
+Eden Gardens,Kolkata,Sports,45000,22.5646,88.3437,Stadium,Oct-Mar,1600,20-35
+Science City,Kolkata,Educational,40000,22.5333,88.3333,Science Center,Oct-Mar,1600,20-35
+Belur Math,Kolkata,Religious,35000,22.6304,88.3564,Temple,Oct-Mar,1600,20-35
+Marble Palace,Kolkata,Historical,25000,22.5726,88.3639,Palace,Oct-Mar,1600,20-35
+St. Paul's Cathedral,Kolkata,Religious,20000,22.5587,88.3509,Church,Oct-Mar,1600,20-35
+Prinsep Ghat,Kolkata,Scenic,15000,22.5587,88.3509,Monument,Oct-Mar,1600,20-35
+Lalbagh Botanical Garden,Bengaluru,Nature,150000,12.9507,77.5848,Garden,Oct-Mar,970,20-35
+Bangalore Palace,Bengaluru,Historical,120000,12.9984,77.5925,Palace,Oct-Mar,970,20-35
+Cubbon Park,Bengaluru,Nature,200000,12.9762,77.5946,Park,Oct-Mar,970,20-35
+Vidhana Soudha,Bengaluru,Historical,100000,12.9791,77.5915,Government Building,Oct-Mar,970,20-35
+ISKCON Temple,Bengaluru,Religious,80000,13.0103,77.5510,Temple,Oct-Mar,970,20-35
+Tipu Sultan's Summer Palace,Bengaluru,Historical,70000,12.9614,77.5736,Palace,Oct-Mar,970,20-35
+Bannerghatta National Park,Bengaluru,Nature,60000,12.8000,77.5772,National Park,Oct-Mar,970,20-35
+Wonderla Amusement Park,Bengaluru,Entertainment,90000,12.8300,77.4000,Theme Park,Oct-Mar,970,20-35
+Nandi Hills,Bengaluru,Nature,75000,13.3700,77.6800,Hill Station,Oct-Mar,970,20-35
+Innovation Hub,Bengaluru,Educational,50000,12.9716,77.5946,Science Center,Oct-Mar,970,20-35
+UB City Mall,Bengaluru,Shopping,110000,12.9716,77.5946,Shopping Mall,Oct-Mar,970,20-35
+National Gallery of Modern Art,Bengaluru,Art,40000,12.9716,77.5946,Museum,Oct-Mar,970,20-35
+Charminar,Hyderabad,Historical,100000,17.3616,78.4747,Monument,Oct-Mar,800,25-40
+Golconda Fort,Hyderabad,Historical,75000,17.3833,78.4011,Fort,Oct-Mar,800,25-40
+Hussain Sagar Lake,Hyderabad,Scenic,50000,17.4219,78.4738,Lake,Oct-Mar,800,25-40
+Ramoji Film City,Hyderabad,Entertainment,45000,17.3833,78.4011,Theme Park,Oct-Mar,800,25-40
+Salar Jung Museum,Hyderabad,Museum,40000,17.3716,78.4804,Museum,Oct-Mar,800,25-40
+Qutb Shahi Tombs,Hyderabad,Historical,35000,17.3833,78.4011,Tombs,Oct-Mar,800,25-40
+Chowmahalla Palace,Hyderabad,Historical,30000,17.3575,78.4717,Palace,Oct-Mar,800,25-40
+Birla Mandir,Hyderabad,Religious,25000,17.4062,78.4691,Temple,Oct-Mar,800,25-40
+Nehru Zoological Park,Hyderabad,Natural,20000,17.3833,78.4011,Zoo,Oct-Mar,800,25-40
+Lumbini Park,Hyderabad,Entertainment,15000,17.4219,78.4738,Theme Park,Oct-Mar,800,25-40
+Taj Mahal,Agra,Historical,150000,27.1751,78.0421,Monument,Oct-Mar,800,25-45
+Agra Fort,Agra,Historical,75000,27.1797,78.0211,Fort,Oct-Mar,800,25-45
+Fatehpur Sikri,Agra,Historical,50000,27.0945,79.2679,Historical Site,Oct-Mar,800,25-45
+Mehtab Bagh,Agra,Garden,25000,27.1751,78.0421,Garden,Oct-Mar,800,25-45
+Itmad-ud-Daula,Agra,Historical,20000,27.1995,78.0235,Tomb,Oct-Mar,800,25-45
+Akbar's Tomb,Agra,Historical,15000,27.2208,78.0278,Tomb,Oct-Mar,800,25-45
+Jama Masjid,Agra,Religious,10000,27.1897,78.0142,Mosque,Oct-Mar,800,25-45
+Ram Bagh,Agra,Garden,8000,27.1751,78.0421,Garden,Oct-Mar,800,25-45
+Chini Ka Rauza,Agra,Historical,5000,27.1751,78.0421,Tomb,Oct-Mar,800,25-45
+Mariam's Tomb,Agra,Historical,3000,27.1751,78.0421,Tomb,Oct-Mar,800,25-45
+Amer Fort,Jaipur,Historical,180000,26.9855,75.8513,Fort,Oct-Mar,650,20-45
+Hawa Mahal,Jaipur,Historical,150000,26.9239,75.8267,Palace,Oct-Mar,650,20-45
+City Palace,Jaipur,Historical,120000,26.9258,75.8237,Palace,Oct-Mar,650,20-45
+Jantar Mantar,Jaipur,Historical,80000,26.9247,75.8246,Observatory,Oct-Mar,650,20-45
+Nahargarh Fort,Jaipur,Historical,70000,26.9362,75.8183,Fort,Oct-Mar,650,20-45
+Albert Hall Museum,Jaipur,Historical,50000,26.9124,75.7873,Museum,Oct-Mar,650,20-45
+Jal Mahal,Jaipur,Historical,90000,26.9535,75.8467,Palace,Oct-Mar,650,20-45
+Birla Mandir,Jaipur,Religious,60000,26.9124,75.7873,Temple,Oct-Mar,650,20-45
+Jaigarh Fort,Jaipur,Historical,55000,26.9855,75.8513,Fort,Oct-Mar,650,20-45
+Galtaji Temple,Jaipur,Religious,45000,26.9124,75.7873,Temple,Oct-Mar,650,20-45
+Sisodia Rani Garden,Jaipur,Nature,40000,26.9124,75.7873,Garden,Oct-Mar,650,20-45
+Central Park,Jaipur,Recreation,35000,26.9124,75.7873,Park,Oct-Mar,650,20-45
+Kashi Vishwanath Temple,Varanasi,Religious,300000,25.3176,82.9739,Temple,Oct-Mar,1100,15-45
+Dashashwamedh Ghat,Varanasi,Religious,250000,25.3176,82.9739,Ghat,Oct-Mar,1100,15-45
+Sarnath,Varanasi,Historical,150000,25.3176,82.9739,Archaeological Site,Oct-Mar,1100,15-45
+Manikarnika Ghat,Varanasi,Religious,200000,25.3176,82.9739,Ghat,Oct-Mar,1100,15-45
+Assi Ghat,Varanasi,Religious,180000,25.3176,82.9739,Ghat,Oct-Mar,1100,15-45
+Banaras Hindu University,Varanasi,Educational,100000,25.3176,82.9739,University,Oct-Mar,1100,15-45
+Ramnagar Fort,Varanasi,Historical,80000,25.3176,82.9739,Fort,Oct-Mar,1100,15-45
+Tulsi Manas Temple,Varanasi,Religious,70000,25.3176,82.9739,Temple,Oct-Mar,1100,15-45
+Durga Temple,Varanasi,Religious,90000,25.3176,82.9739,Temple,Oct-Mar,1100,15-45
+Bharat Kala Bhavan,Varanasi,Museum,50000,25.3176,82.9739,Museum,Oct-Mar,1100,15-45
+New Vishwanath Temple,Varanasi,Religious,120000,25.3176,82.9739,Temple,Oct-Mar,1100,15-45
+Alamgir Mosque,Varanasi,Religious,60000,25.3176,82.9739,Mosque,Oct-Mar,1100,15-45
+Calangute Beach,Goa,Scenic,300000,15.4989,73.7038,Beach,Oct-May,3000,25-35
+Baga Beach,Goa,Scenic,250000,15.5535,73.7513,Beach,Oct-May,3000,25-35
+Basilica of Bom Jesus,Goa,Religious,150000,15.4989,73.7038,Church,Oct-May,3000,25-35
+Fort Aguada,Goa,Historical,120000,15.4989,73.7038,Fort,Oct-May,3000,25-35
+Dudhsagar Falls,Goa,Nature,100000,15.4989,73.7038,Waterfall,Oct-May,3000,25-35
+Anjuna Beach,Goa,Scenic,200000,15.4989,73.7038,Beach,Oct-May,3000,25-35
+Chapora Fort,Goa,Historical,80000,15.4989,73.7038,Fort,Oct-May,3000,25-35
+Se Cathedral,Goa,Religious,90000,15.4989,73.7038,Church,Oct-May,3000,25-35
+Spice Plantations,Goa,Nature,70000,15.4989,73.7038,Garden,Oct-May,3000,25-35
+Old Goa Churches,Goa,Religious,110000,15.4989,73.7038,Church,Oct-May,3000,25-35
+Butterfly Beach,Goa,Scenic,60000,15.4989,73.7038,Beach,Oct-May,3000,25-35
+Grand Island,Goa,Scenic,50000,15.4989,73.7038,Island,Oct-May,3000,25-35
+Backwaters,Kerala,Scenic,250000,10.5276,76.2144,Waterway,Oct-Mar,3000,23-35
+Kovalam Beach,Kerala,Scenic,200000,8.4004,76.9787,Beach,Oct-Mar,3000,23-35
+Periyar National Park,Kerala,Nature,150000,9.4677,77.2056,National Park,Oct-Mar,3000,23-35
+Munnar Hill Station,Kerala,Nature,180000,10.0889,77.0595,Hill Station,Oct-Mar,3000,23-35
+Padmanabhaswamy Temple,Kerala,Religious,120000,8.4827,76.9437,Temple,Oct-Mar,3000,23-35
+Fort Kochi,Kerala,Historical,100000,9.9312,76.2673,Fort,Oct-Mar,3000,23-35
+Athirappilly Falls,Kerala,Nature,90000,10.2842,76.5783,Waterfall,Oct-Mar,3000,23-35
+Varkala Beach,Kerala,Scenic,80000,8.7376,76.7073,Beach,Oct-Mar,3000,23-35
+Chinese Fishing Nets,Kerala,Historical,70000,9.9312,76.2673,Landmark,Oct-Mar,3000,23-35
+Tea Gardens,Kerala,Nature,60000,10.0889,77.0595,Garden,Oct-Mar,3000,23-35
+Marari Beach,Kerala,Scenic,50000,9.6312,76.3073,Beach,Oct-Mar,3000,23-35
+Bekal Fort,Kerala,Historical,40000,12.3896,75.0313,Fort,Oct-Mar,3000,23-35 
